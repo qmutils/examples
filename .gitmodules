@@ -1,0 +1,3 @@
+[submodule "qmutils"]
+	path = qmutils
+	url = https://github.com/qmutils/qmutils.git
